@@ -1,4 +1,3 @@
-# pradeepkumarsingha
 <!-- 🌟 GITHUB PROFILE README - Pradeep Kumar Singha 🌟 -->
 
 <h1 align="center">Hey 👋, I'm Pradeep Kumar Singha</h1>
