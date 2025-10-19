@@ -1,5 +1,3 @@
-<!-- 🌟 GITHUB PROFILE README - Pradeep Kumar Singha 🌟 -->
-
 <h1 align="center">Hey 👋, I'm Pradeep Kumar Singha</h1>
 <h3 align="center">💻 MERN Stack Developer | ☕ DSA with Java | 🤖 AI/ML Explorer | 🎓 GIFT'27</h3>
 
