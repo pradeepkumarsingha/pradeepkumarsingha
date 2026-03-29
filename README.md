@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Pradeep Kumar Singha</h1>
-<h3 align="center">💻 MERN Stack Developer | ☕ DSA with Java | 🤖 AI/ML Explorer | 🎓 GIFT'27</h3>
+<h3 align="center">💻 MERN Stack Developer | ☕ DSA | 🤖 AI/ML Explorer | 🎓 GIFT'27</h3>
 
 ---
 
@@ -69,6 +69,9 @@
   <a href="https://github.com/pradeepkumarsingha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <a href="https://pradeepsportfoliopks.netlify.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
 </p>
 
 ---
