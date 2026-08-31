@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Pradeep Kumar Singha</h1>
-<h3 align="center">💻 MERN Stack Developer | ☕ DSA | 🤖 AI/ML Explorer | 🎓 GIFT'27</h3>
+<h3 align="center">💻FullStack Developer | ☕ DSA | 🤖 AI/ML Explorer | 🎓 GIFT'27</h3>
 
 ---
 
-### 🚀 About Me  
-- 🔭 I’m currently working on **Full-Stack MERN Projects**  
-- 🌱 I’m exploring **AI/ML, Data Structures & Algorithms (Java)**  
+### 🚀 About Me
+- 🔭 I’m currently working on **Full-Stack AI/ML Projects**  
+- 🌱 I’m exploring **AI/ML, Data Structures & Algorithms**  
 - 💡 Passionate about building **innovative, scalable web apps**  
 - 🎯 Goal: To become an **AI-driven Full-Stack Developer**  
 - ⚡ Fun fact: I debug faster when I have chai ☕
@@ -13,6 +13,7 @@
 ---
 
 ### 🧠 Tech Stack
+
 #### 💻 Languages & Core Skills  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
@@ -31,8 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
 #### 🤖 AI / ML & Data Science  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -49,7 +48,8 @@
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
+
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradeepkumarsingha&show_icons=true&theme=tokyonight" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepkumarsingha&theme=tokyonight" />
@@ -61,7 +61,8 @@
 
 ---
 
-### 🔗 Connect With Me  
+### 🔗 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/pradeep-kumar-singha" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -70,13 +71,14 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://pradeepsportfoliopks.netlify.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
 
-### 💬 Quote of the Day  
+### 💬 Quote of the Day
+
 > *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
 
 ---
