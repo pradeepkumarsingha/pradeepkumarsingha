@@ -1,92 +1,163 @@
-<h1 align="center">Hey 👋, I'm Pradeep Kumar Singha</h1>
-<h3 align="center">💻FullStack Developer | ☕ DSA | 🤖 AI/ML Explorer | 🎓 GIFT'27</h3>
+# 👋 Hey, I'm Pradeep Kumar Singha
 
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **Full-Stack AI/ML Projects**  
-- 🌱 I’m exploring **AI/ML, Data Structures & Algorithms**  
-- 💡 Passionate about building **innovative, scalable web apps**  
-- 🎯 Goal: To become an **AI-driven Full-Stack Developer**  
-- ⚡ Fun fact: I debug faster when I have chai ☕
-
----
-
-### 🧠 Tech Stack
-
-#### 💻 Languages & Core Skills  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-#### 🖥️ Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### 🧩 Backend  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-
-#### 🗃️ Database  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🤖 AI / ML & Data Science  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white)
-![Natural Language Processing](https://img.shields.io/badge/NLP-2E8B57?style=for-the-badge&logo=spacy&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-#### ⚙️ Tools & Environment  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-### 📊 GitHub Stats
+### Python Developer | AI/ML Engineer | Full Stack Developer | Generative AI Enthusiast
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradeepkumarsingha&show_icons=true&theme=tokyonight" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pradeepkumarsingha&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkumarsingha&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pradeep-kumar-singha" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://pradeepkumarsingha.in">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="https://github.com/pradeepkumarsingha" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://www.linkedin.com/in/pradeep-kumar-singha">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://pradeepsportfoliopks.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://github.com/pradeepkumarsingha">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-### 💬 Quote of the Day
-
-> *"Code is like humor. When you have to explain it, it’s bad."* — Cory House
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pradeepkumarsingha&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Building+Intelligent+Applications;Developing+AI%2FML+Solutions;Exploring+Generative+AI+%26+LLMs;Turning+Ideas+Into+Real+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
-⭐️ *Crafted with passion by [Pradeep Kumar Singha](https://github.com/pradeepkumarsingha)*
+## 🚀 About Me
+
+I'm **Pradeep Kumar Singha**, a Computer Science and Engineering student specializing in Artificial Intelligence at **GIFT Autonomous, Bhubaneswar (2027)**.
+
+I'm passionate about developing intelligent applications that combine **Python, Artificial Intelligence, Machine Learning, Generative AI, and Full Stack Development**.
+
+- 💻 Interested in Python Development and Full Stack Engineering.
+- 🤖 Exploring Machine Learning, Deep Learning, NLP and Generative AI.
+- 🧠 Practicing Data Structures and Algorithms to strengthen problem-solving.
+- 🌐 Building scalable web applications and AI-powered solutions.
+- 🔬 Interested in LLMs, AI Agents and intelligent automation.
+- 🎯 Goal: Build impactful products at the intersection of AI and software engineering.
+- ☕ Fun fact: Great ideas often start with a cup of chai!
+
+---
+
+## 🛠️ Tech Stack & Technologies
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
+</p>
+
+### 🎨 Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+</p>
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn" />
+</p>
+
+**Additional Technologies:**
+
+`Generative AI` · `LLMs` · `LangChain` · `LangGraph` · `NLP` · `Deep Learning` · `NumPy` · `Pandas` · `Scikit-learn`
+
+### 🔧 Tools & Development Environment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
+
+---
+
+## 🌟 Featured Projects
+
+Here are some of the projects I've worked on across AI, Machine Learning and Full Stack Development.
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🌾 **Krushi Sathi** | AI-powered agricultural platform for crop recommendation, disease detection and yield prediction. | Python, Flask, ML, React |
+| 🎯 **AI Career Coach** | Intelligent career platform with resume analysis, skill-gap analysis and AI interview features. | Python, Flask, Node.js, AI |
+| 🌱 **GreenTrack** | Environmental monitoring and carbon emission prediction solution. | Python, ML, Web |
+| 🏏 **PlaySphere** | Full Stack sports and gaming application. | MERN Stack |
+| 🚚 **DeliverX** | Full Stack delivery management application. | MERN Stack |
+| 📸 **Smart Attendance System** | Face-recognition-based attendance management system. | Python, OpenCV, TensorFlow |
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradeepkumarsingha&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Pradeep's GitHub statistics" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=pradeepkumarsingha&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkumarsingha&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepkumarsingha&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+</p>
+
+---
+
+## 🏆 Achievements & Experience
+
+- 🥇 Recognized as **Intern of the Month**.
+- 🚀 Participated in **Suravi-2K25 24-Hour Hackathon**.
+- 🤖 AI/ML Internship experience at **Central Tool Room & Training Centre (CTTC)**.
+- 📚 Completed certifications in Generative AI, Machine Learning and technical domains.
+- 🌐 Student Ambassador at LetsUpgrade.
+
+---
+
+## 🎯 Currently Exploring
+
+- Advanced Python Development
+- Data Structures and Algorithms
+- Machine Learning & Deep Learning
+- Generative AI and Large Language Models
+- AI Agents and LangGraph
+- Full Stack Application Development
+- Scalable Backend Architecture
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, AI enthusiasts, recruiters and people building innovative technology.
+
+<p align="center">
+  <a href="https://pradeepkumarsingha.in">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-pradeepkumarsingha.in-6366F1?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/pradeep-kumar-singha">
+    <img src="https://img.shields.io/badge/LinkedIn-Pradeep_Kumar_Singha-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/pradeepkumarsingha">
+    <img src="https://img.shields.io/badge/GitHub-Explore_My_Code-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## 💭 Developer Philosophy
+
+> "Code is like humor. When you have to explain it, it's bad." — Cory House
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pradeepkumarsingha&label=PROFILE+VIEWS&color=6366F1&style=for-the-badge" alt="Profile views" />
+</p>
+
+<p align="center">
+  ⭐ <b>Building. Learning. Innovating.</b> ⭐
+  <br/>
+  <i>Crafted with passion by Pradeep Kumar Singha</i>
+</p>
