@@ -92,19 +92,10 @@ Here are some of the projects I've worked on across AI, Machine Learning and Ful
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pradeepkumarsingha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
+
   <img width="49%" src="https://streak-stats.demolab.com?user=pradeepkumarsingha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pradeepkumarsingha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Programming Languages" />
-</p>
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pradeepkumarsingha&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" />
-</p>
 
 ## 🏆 Achievements & Experience
 
